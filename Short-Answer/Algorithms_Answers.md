@@ -34,3 +34,8 @@ function find_f(takes range of floors):
             find_f(passing: range of floors / 2 as lowest, range of floors max)
         if egg breaks:
             find_f(passing: range of floors min, range of floors / 2 as highest )
+
+
+runtime:
+
+O(log(n))
